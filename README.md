@@ -50,4 +50,9 @@ To learn and demonstrate how combinational logic circuits work in digital system
 - Waveform debugging using GTKWave
 - Basic combinational logic circuits
 
----
+## Author
+
+Rajesh  
+- [LinkedIn](https://www.linkedin.com/in/rajesh-0054521b1)  
+- Email: mestharajesh001@gmail.com
+
